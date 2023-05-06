@@ -1,3 +1,19 @@
+Title: Age Calculator
+
+Description: This is a simple age calculator built using ReactJS. It allows users to input their date of birth (day, month, and year) and calculates their age based on the current date. The user interface is simple and easy to use, with input validation to ensure that the input values are within the appropriate range. The age is displayed dynamically as the user inputs their birthdate. This project is ideal for beginners who want to learn ReactJS and improve their web development skills. Feel free to clone the repository and modify the code as per your requirements.
+
+Features:
+
+Input validation to ensure that the user inputs a valid date.
+Real-time age calculation based on the current date.
+Simple and user-friendly interface.
+Responsive design suitable for mobile and desktop devices.
+Built using ReactJS and Material-UI.
+
+Technologies Used: ### ReactJS, ### Material-UI
+
+ -----------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
