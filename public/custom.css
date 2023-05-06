@@ -86,7 +86,9 @@ hr {
   }
 
   .text-fields-container {
-    flex-direction: row;
+  flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
   }
 
   .my-button {
@@ -99,7 +101,7 @@ hr {
   }
 
   .text {
-    font-size: 5rem;
+    font-size: 2.5rem;
     font-family: 'poppins', sans-serif;
   }
 }
@@ -108,7 +110,7 @@ hr {
   display: flex;
   flex-direction: column;
   height: 98px;
-  justify-content: space-between;
+  width: 150px;
 }
 
 @media (min-width: 600px) {
