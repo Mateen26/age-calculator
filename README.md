@@ -10,7 +10,7 @@ Simple and user-friendly interface.
 Responsive design suitable for mobile and desktop devices.
 Built using ReactJS and Material-UI.
 
-Technologies Used: ### ReactJS, ### Material-UI
+Technologies Used: ### `ReactJS`, ### `Material-UI`
 
  -----------------------------------------------
 
